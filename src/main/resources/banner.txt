@@ -1,0 +1,10 @@
+${Ansi.GREEN}Spring Boot${spring-boot.formatted-version}
+
+${Ansi.RED} __     ______
+/\ \   /\  ___\
+\ \ \  \ \ \__ \
+ \ \_\  \ \_____\
+  \/_/   \/_____/
+
+IG GROUP PLC - FIX DMA Trading API Example
+${Ansi.DEFAULT}

@@ -1,0 +1,10 @@
+spring:
+  main:
+    banner-mode: console
+  application:
+    name: IG FIX DMA Trading API Example
+
+quickfixj:
+  client:
+    config: classpath:quickfixj-client.cfg
+
