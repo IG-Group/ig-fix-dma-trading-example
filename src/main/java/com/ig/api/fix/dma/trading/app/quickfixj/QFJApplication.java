@@ -38,7 +38,7 @@ public class QFJApplication implements Application {
         log.info("Session successfully logged on [{}]", sessionId);
         log.info("Placing order");
         newOrderSender.sendNewOrder();
-        log.info("Sent order");
+        log.info("Order sent");
     }
 
     public void onLogout(SessionID sessionId) {
